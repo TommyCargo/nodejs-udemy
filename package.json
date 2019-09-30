@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-udemy",
+  "version": "1.0.0",
+  "description": "Social network. React + Redux + NodeJS + Express + MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TommyCargo/nodejs-udemy.git"
+  },
+  "author": "Nickolay Chernyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TommyCargo/nodejs-udemy/issues"
+  },
+  "homepage": "https://github.com/TommyCargo/nodejs-udemy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3"
+  }
+}
